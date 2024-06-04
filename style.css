@@ -1,6 +1,7 @@
 .contener{
     background-color: slategray;
     text-align: center;
+    padding: 40px 0;
 }
 .box{
     background-color: brown;
